@@ -12,7 +12,7 @@
       <paths name="192.168.92.13">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/opt/xy/python_and_dl" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
